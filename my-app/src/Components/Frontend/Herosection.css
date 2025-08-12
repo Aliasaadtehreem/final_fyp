@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    
+
+}
+.section-hero-image{
+    padding-right: 2px;
+    max-width: 100%;
+    height: auto;
+    
+    opacity: 1;
+}
+.section-hero-data{
+    margin-top:80px;
+    font-family: "Titillium Web", sans-serif;
+    padding-bottom: 20px; 
+    
+}
+.hero-heading {
+    font-size: 31px;
+    font-weight: 500;
+    font-family: "Titillium Web", sans-serif;
+    color: #AF3E3E;
+    
+
+}
+.container .section-hero-data .hero-para{
+    font-family: "Titillium Web", sans-serif;
+    font-size:14px;
+    color: #AF3E3E;
+}

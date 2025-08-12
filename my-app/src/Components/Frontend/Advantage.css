@@ -1,0 +1,28 @@
+.advantage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    border-radius: 2px;
+    border: none;
+}
+.car .pg{
+    padding-left: 450px;
+    color: brown;
+}
+.car .hi{
+    padding-left: 400px;
+    color: brown;
+}
+.hi:hover{
+    color:  #EAEBD0;
+}
+.car .pe{
+    padding-left:200px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: brown;
+}
+.pe:hover{
+    color:  #EAEBD0;
+}

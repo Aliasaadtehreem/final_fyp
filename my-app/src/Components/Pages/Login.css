@@ -1,0 +1,34 @@
+.log{
+    width: 100%;
+    height: 400%;
+    display: flex;
+    gap: 10rem;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+.log .box1{
+    border: 2px solid brown;
+}
+
+.log .box1 .p {
+    font-weight: bold;
+    padding-left: 30px;
+    color: brown;
+    
+}
+.log .box1 .f {
+    font-weight: bold;
+    padding-left: 65px;
+    color: brown;
+}
+.box1:hover{
+    background-color: #EAEBD0;
+}
+
+.log .box1 .bw{
+    font-weight: bold;
+   margin-left: 63px;
+   color: #EAEBD0;
+}
+
+

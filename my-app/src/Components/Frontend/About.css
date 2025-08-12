@@ -1,0 +1,10 @@
+.abouts{
+    display: flex;
+    padding-left: 60px;
+    margin-top: 60px;
+}
+.aboutt{
+    display: flex;
+    padding-left: 30px;
+    margin-top: 80px;
+}

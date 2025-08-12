@@ -1,0 +1,26 @@
+.benefits{
+    padding-left: 58px;
+    margin-bottom: 30px;
+    background-color: #EAEBD0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+.benefitspic img{
+    border-radius: 12px;
+    width: 80px;
+    border: 3px solid brown ;
+    background-color:#EAEBD0 ;
+}
+.benefitfirst{
+    display: flex;
+    gap:2rem;
+}
+.benefitspic {
+    gap: 2rem;
+}
+.benefitbtn:hover{
+    color: burlywood;
+    background-color: brown;
+    border: 3px solid burlywood;
+}
