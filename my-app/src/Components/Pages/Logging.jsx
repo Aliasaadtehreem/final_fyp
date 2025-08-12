@@ -44,7 +44,7 @@ const Logging = () => {
         />
  <button type="submit">Forget Password</button>
    <button type="submit">Login</button>
-   <button type="submit">Sing up</button>
+  <a className='aa' style={{paddingLeft:"120px"}} href="/Sign" >Sign up</a>
 
    
         
